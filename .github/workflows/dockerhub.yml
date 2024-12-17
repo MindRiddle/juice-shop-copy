@@ -25,4 +25,4 @@ jobs:
       with:
        context: 
        push: true
-       tags: nicolashmp/juice-shop-hmp:latest
+       tags: mindriddle/juice-shop-hmp:latest
